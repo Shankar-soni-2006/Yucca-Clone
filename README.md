@@ -11,7 +11,7 @@ This project demonstrates advanced frontend concepts such as **hover animations,
 ## 🚀 Live Preview
 
 *(Add your deployed link here if hosted)*
-Example: https://your-live-link.com
+Example: (https://yucca-clone-xi.vercel.app/)
 
 ---
 
